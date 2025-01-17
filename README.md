@@ -126,10 +126,6 @@ Push to the branch: git push origin feature/your-feature.
 
 Submit a pull request.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 Acknowledgments
 
 Special thanks to all contributors and open-source enthusiasts who inspired this project.
